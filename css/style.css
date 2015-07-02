@@ -1,0 +1,97 @@
+
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    background-color: #fff;
+    width: 100%;
+    /*margin: 0 auto;*/
+    height: 100%;
+    margin-top: 10px;
+}
+
+
+#main {
+    width: 98%;
+    height: 80%;
+    position: absolute;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.citation {
+    text-align: right;
+}
+
+.dot {
+    stroke: #000;
+}
+
+.line {
+    fill: none;
+    stroke: grey;
+    stroke-width: .1em;
+}
+
+/*#main {*/
+    /*left: 25%;*/
+    /*position: absolute;*/
+/*}*/
+/*#main #text {*/
+    /*padding-bottom: 10px;*/
+/*}*/
+
+/*#sequence {*/
+    /*margin-top: 10px;*/
+    /*width: 50%;*/
+    /*height: 50px;*/
+/*}*/
+/*#chart {*/
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*margin: 0 auto;*/
+    /*position: absolute;*/
+/*}*/
+
+
+
+/*#sequence text, #legend text {*/
+    /*font-weight: 1000;*/
+    /*fill: #fff;*/
+/*}*/
+
+/*#chart {*/
+    /*position: relative;*/
+/*}*/
+
+/*#chart path {*/
+    /*stroke: #fff;*/
+/*}*/
+
+/*div.tooltip {*/
+  /*position: absolute;*/
+  /*text-align: left;*/
+  /*padding: 0 10px 10px 10px;*/
+  /*font: 15px sans-serif;*/
+  /*background: white;*/
+  /*border: 0px;*/
+  /*border-radius: 8px;*/
+  /*pointer-events: none;*/
+/*}*/
+
+
+
+
+/*circle,path {
+  cursor: pointer;
+}
+
+circle {
+  fill: none;
+  pointer-events: all;
+}*/
